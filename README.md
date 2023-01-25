@@ -1,7 +1,8 @@
-# Generate_users_for_PGSQL
-# sudo apt install fish 
-# fish # virtualenv venv 
-# source venv/bin/activate.fish 
+#Generate_users_for_PGSQL
+sudo apt install fish 
+fish 
+virtualenv venv 
+source venv/bin/activate.fish 
 
 pip install -r requirements.txt
 
